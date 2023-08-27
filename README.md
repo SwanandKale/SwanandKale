@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Swanand Kale</h1>
-<h3 align="center">A passionate Software developer  currently working at **Genzeon**</h3>
+<h3 align="center">A passionate Software Engineer  currently working at Genzeon</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
