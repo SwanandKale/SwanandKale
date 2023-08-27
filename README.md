@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Swanand Kale</h1>
 <h3 align="center">A passionate Software Engineer  currently working at Genzeon</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg">
+<img align="right" alt="coding" width="300" src="[https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg](https://yt3.ggpht.com/a/AGF-l7_DXWsMJgNTdKZWmPzT8GJbhM4187BoVJvztQ=s900-c-k-c0xffffffff-no-rj-mo)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
